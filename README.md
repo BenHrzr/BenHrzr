@@ -4,6 +4,7 @@
 - ⚡ Fun fact: I use this Programm as a cloud
 - 🗣️ Language: I speak fluent German (mothers language) & English
 - 💻 Programming-language: HTML, CSS, Python, JS
+- 🖥️ Ecosystem: Apple & Windows (only PC)
 
 I HATE THESE BIO THINGS
 
